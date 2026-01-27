@@ -26,5 +26,3 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 ## 🎯 Motto
 *"Keep learning, never settle"*  
 
----
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)

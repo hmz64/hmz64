@@ -13,7 +13,7 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 ---
 
 ## 📊 GitHub Stats
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilham&show_icons=true&theme=radical)
+![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmz64&show_icons=true&theme=radical)
 
 ---
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)

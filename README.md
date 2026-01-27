@@ -16,7 +16,7 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 ![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmz64&show_icons=true&theme=radical)
 
 ---
-![Coding GIF](https://tenor.com/bsUWw.gif)
+![Hacker GIF](https://media.tenor.com/Z9HqKf0Xj5IAAAAC/hacker.gif)
 ## 💻 Projects
 - [Coding Project 1](link-repo) - Short description
 - [IoT / Arduino Project](link-repo) - Short description

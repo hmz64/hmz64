@@ -20,7 +20,7 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 ## 💻 Projects
 - [Coding Project 1](link-repo) - Short description
 - [IoT / Arduino Project](link-repo) - Short description
-- [YtFLAC](https://github.com/hnz64/YtFLAC)
+- [YtFLAC](https://github.com/hmz64/YtFLAC.git) A Terminal based youtube music downloader
 ---
 
 ## 🎯 Motto

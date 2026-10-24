@@ -1,3 +1,4 @@
+![Hello World](hello-world.gif)
 # Hi, there 👋
 
 Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐

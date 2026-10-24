@@ -6,10 +6,10 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 ---
 
 ## 🔧 Skills
-- **Python** 🐍
+- **Kotlin** 👌
 - **Linux** 🐧
-- **Networking** 🌐
-- **Arduino / IoT** ⚡
+- **AI** 🧠
+- **JavaScript** ⚡
 
 ---
 
@@ -24,6 +24,5 @@ Student & IT Enthusiast | Passionate about Linux, coding, and networking 🌐
 - [YtFLAC](https://github.com/hmz64/YtFLAC.git) A Terminal based youtube music downloader
 ---
 
-## 🎯 Motto
-*"Keep learning, never settle"*  
+*"Building The Future."*  
 
